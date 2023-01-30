@@ -1,0 +1,2 @@
+- diabetes: https://www.kaggle.com/datasets/mathchi/diabetes-data-set
+- SST: Stanford Sentiment Testbed
